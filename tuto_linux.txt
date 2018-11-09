@@ -1,0 +1,32 @@
+Install Ubuntu bash:
+
+Open Powershell as admin
+	Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+reboot
+retry for verification ( must say online:True reboot:False)
+open Windows Store
+	Ubuntu
+	Install
+Open Bash
+	
+
+
+Change opening folder: 
+cd ~
+nano .bashrc
+	add "cd + path of the folder" at the end
+launch new bash
+
+
+
+Delete folder
+rmdir +foldername (if folder empty)
+rm -r +foldername
+
+
+
+Delete git repository 
+cd + folder path
+rm -rf .git
+
+

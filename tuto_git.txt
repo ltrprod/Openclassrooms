@@ -1,0 +1,18 @@
+git status
+git add *
+git commit * ( -m "") (-a for only update)
+git diff ( see modification in files )
+git log ( see the last commit ) -p 
+git pull
+git push
+
+
+
+modify commit 
+	git commit --amend
+
+delete last commit
+	git reset HEAD^
+	
+
+
