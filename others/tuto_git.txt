@@ -1,6 +1,3 @@
-git tuto
-
-
 git status
 git add *
 git commit * ( -m "") (-a for only update)
