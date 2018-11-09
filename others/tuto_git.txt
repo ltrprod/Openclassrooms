@@ -1,6 +1,6 @@
 git status
 git add *
-git commit *
+git commit * ( -m "")
 git diff ( see modification in files )
 git log ( see the last commit ) -p 
 git pull

@@ -12,13 +12,21 @@ Open Bash
 
 
 Change opening folder: 
-
 cd ~
 nano .bashrc
 	add "cd + path of the folder" at the end
 launch new bash
 
 
+
+Delete folder
+rmdir +foldername (if folder empty)
+rm -r +foldername
+
+
+
 Delete git repository 
 cd + folder path
 rm -rf .git
+
+
