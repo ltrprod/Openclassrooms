@@ -9,7 +9,7 @@ git push
 git branch +branchname (creer une branche)
 git checkout +branchname (change de branche)
 git checkout -b +branchename (creer une branche et s'y positionne)
-
+git merge +branchname (merge la branche actuelle avec "branchname")
 
 modify commit message
 	git commit --amend
@@ -17,5 +17,8 @@ modify commit message
 delete last commit
 	git reset HEAD^
 	
+git blame nomdufichier.extension ( historique du fichier + SHA des commits)
+
+git show +SHA (details du commit scpecifié)
 
 
