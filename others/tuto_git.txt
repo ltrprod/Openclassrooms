@@ -6,9 +6,12 @@ git log ( see the last commit ) -p
 git pull
 git push
 
+git branch +branchname (creer une branche)
+git checkout +branchname (change de branche)
+git checkout -b +branchename (creer une branche et s'y positionne)
 
 
-modify commit 
+modify commit message
 	git commit --amend
 
 delete last commit
