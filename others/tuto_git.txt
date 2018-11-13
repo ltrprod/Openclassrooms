@@ -1,3 +1,4 @@
+
 git status
 git add *
 git commit * ( -m "") (-a for only update)
@@ -6,10 +7,15 @@ git log ( see the last commit ) -p
 git pull
 git push
 
-git branch +branchname (creer une branche)
+git branch +branchname (create branch)
+git branch ( show local branch)
+git branch -d +branchname ( del branch)
 git checkout +branchname (change de branche)
 git checkout -b +branchename (creer une branche et s'y positionne)
 git merge +branchname (merge la branche actuelle avec "branchname")
+git show-branch ( -r show all removed branches, -a all branches)
+
+
 
 modify commit message
 	git commit --amend
@@ -17,8 +23,9 @@ modify commit message
 delete last commit
 	git reset HEAD^
 	
-git blame nomdufichier.extension ( historique du fichier + SHA des commits)
+git blame nomdufichier.extension ( historique du fichier + SHA des commits + qui a modifié)
 
 git show +SHA (details du commit scpecifié)
 
 
+.gitignore ( a deposer a la racine du repository local + indiquer les fichiers à ignorer constament)
