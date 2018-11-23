@@ -30,3 +30,6 @@ cd + folder path
 rm -rf .git
 
 
+Xming
+export DISPLAY=:0
+
