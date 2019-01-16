@@ -1,0 +1,25 @@
+#secondary {
+    width: 50% !important;
+}
+
+.page-id-22 #primary{
+    width: 50% !important;
+}
+.page-id-22 .n2-section-smartslider{
+	margin:auto !important;
+	width: 100% !important;
+	margin-bottom:50px !important;
+}
+
+
+.page-id-22 #recent-posts-10{
+	text-align: center;
+}
+
+
+
+<blockquote><!-- wp:paragraph --></blockquote>
+<p>Bienvenue sur le site NON OFFICIEL de la ville de Sedan.</p>
+<p>Vous pouvez retrouver sur les pages suivantes les differentes actualites et activites culturelles et physiques que la ville de Sedan vous propose.</p>
+<p>Pour plus de commodite vous pouvez directement reserver vos places en cliquant sur l'activite de votre choix ( dans la limite des places disponibles).</p>
+<p>Bonne navigation et n'hesitez pas a nous contacter pour plus de renseignements.</p>

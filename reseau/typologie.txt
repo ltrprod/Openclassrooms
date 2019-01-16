@@ -1,0 +1,3 @@
+Topologie physique : strucuture physique du reseau ( son apparence) -> bus, etoile, mesh, ring, hybride, etc
+Topologie logique : structure logique d'une topologie physique
+
